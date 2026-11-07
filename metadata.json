@@ -1,0 +1,6 @@
+{
+  "name": "Dear Diary - AI Personal Journal & Mood Companion",
+  "description": "A private, safe, and beautiful AI-powered personal diary mobile app with mood tracking, reflective companion, memories, voice notes, and emotional insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
